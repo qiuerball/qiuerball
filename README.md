@@ -16,4 +16,7 @@
 - ARM
 - C#
 - CMake
-- TCM/IP
+- TCP/IP
+- Rust
+- LLM
+- Linux
