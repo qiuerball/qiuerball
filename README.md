@@ -3,14 +3,14 @@
 - 📫 How to reach me :QQ:1005722698;mail:1005722698@qq.com
 
 ***My tag***
-- FreeRTOS
-- LiteOS
+- RTOS
 - Unity
 - DeepLearning
 - MachineLearning
 - UE5
 - LLM
 - Assembly
+- C embedded development
 - C++
 - CSAPP
 - ARM
