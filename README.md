@@ -8,7 +8,6 @@
 - DeepLearning
 - MachineLearning
 - UE5
-- LLM
 - Assembly
 - C embedded development
 - C++
