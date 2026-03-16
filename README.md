@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @qiuerball🧑
 - 👀 I’m interested in Unity2D game🎮 development.
 - 📫 How to reach me :QQ:1005722698;mail:1005722698@qq.com
-
-***My tag***
+---------------------------------------
+***My Tech Tag***
 - RTOS
 - Unity
 - DeepLearning
@@ -20,8 +20,12 @@
 - LLM
 - Linux
 ---------------------------------------
+***My Game Tag***
 - 三国杀
 - 三国演义
 - 英雄联盟
 - 三角洲
 - PUBG
+- ---------------------------------------
+***My Sport Tag***
+- 篮球
